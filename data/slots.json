@@ -1,0 +1,51 @@
+[
+  {
+    "slot_id": "s1",
+    "doctor_id": "d1",
+    "date": "2026-06-02",
+    "time": "09:00",
+    "booked": false
+  },
+  {
+    "slot_id": "s2",
+    "doctor_id": "d1",
+    "date": "2026-06-02",
+    "time": "11:00",
+    "booked": false
+  },
+  {
+    "slot_id": "s3",
+    "doctor_id": "d2",
+    "date": "2026-06-02",
+    "time": "10:00",
+    "booked": true
+  },
+  {
+    "slot_id": "s4",
+    "doctor_id": "d3",
+    "date": "2026-06-03",
+    "time": "14:00",
+    "booked": false
+  },
+  {
+    "slot_id": "s5",
+    "doctor_id": "d4",
+    "date": "2026-06-03",
+    "time": "09:30",
+    "booked": false
+  },
+  {
+    "slot_id": "s6",
+    "doctor_id": "d5",
+    "date": "2026-06-04",
+    "time": "15:00",
+    "booked": true
+  },
+  {
+    "slot_id": "s7",
+    "doctor_id": "d2",
+    "date": "2026-06-04",
+    "time": "16:00",
+    "booked": false
+  }
+]

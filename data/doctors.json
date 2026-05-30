@@ -1,0 +1,32 @@
+[
+  {
+    "id": "d1",
+    "name": "Dr. Sarah Chen",
+    "specialty": "cardiologist",
+    "hospital": "City Heart Clinic"
+  },
+  {
+    "id": "d2",
+    "name": "Dr. James Patel",
+    "specialty": "general physician",
+    "hospital": "Metro Family Health"
+  },
+  {
+    "id": "d3",
+    "name": "Dr. Emily Rivera",
+    "specialty": "dermatologist",
+    "hospital": "SkinCare Associates"
+  },
+  {
+    "id": "d4",
+    "name": "Dr. Michael Okonkwo",
+    "specialty": "general physician",
+    "hospital": "Metro Family Health"
+  },
+  {
+    "id": "d5",
+    "name": "Dr. Lisa Nguyen",
+    "specialty": "cardiologist",
+    "hospital": "City Heart Clinic"
+  }
+]
