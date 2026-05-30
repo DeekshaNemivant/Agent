@@ -42,7 +42,7 @@ health-agent/
 ### 1. Clone or download
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/health-agent.git
+git clone https://github.com/DeekshaNemivant/health-agent.git
 cd health-agent
 ```
 
