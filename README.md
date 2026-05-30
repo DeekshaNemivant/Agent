@@ -42,8 +42,8 @@ health-agent/
 ### 1. Clone or download
 
 ```bash
-git clone https://github.com/DeekshaNemivant/health-agent.git
-cd health-agent
+git clone https://github.com/DeekshaNemivant/Agent.git
+cd Agent
 ```
 
 ### 2. Create a virtual environment (recommended)
